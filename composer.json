@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/php",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ProgrammistLuxe",
+            "email": "kovaldai68@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
+}
